@@ -24,11 +24,11 @@ reinforcement learning and humanoid robotics.
 
 ### 📚 Education
 
-**Karlsruhe Institute of Technology**
+**Karlsruhe Institute of Technology**  
 MSc Computer Science · 2025–2027
 
-**Middle East Technical University**
+**Middle East Technical University**  
 BSc Computer Engineering · 2021–2025
 
-**University of Alberta**
+**University of Alberta**  
 Exchange semester · 2023
