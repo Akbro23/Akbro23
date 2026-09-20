@@ -17,7 +17,6 @@ BSc Computer Engineering · 2021–2025
 **University of Alberta**  
 Exchange semester · 2023
 
-### 💼 Open to Opportunities
 
-Looking for internships, thesis projects and working-student roles in
+Open to internships, thesis projects and working-student roles in
 robot learning.
