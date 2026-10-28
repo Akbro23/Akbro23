@@ -15,7 +15,7 @@ MSc Computer Science at KIT, interested in AI and robotics.
 
 **AI / robotics**
 
-![PyTorch, ROS, Weights & Biases](icons/ai-robotics.png) ![Hugging Face](https://api.iconify.design/devicon/huggingface.svg?height=48) <img src="https://huggingface.co/spaces/lerobot/LeRobot-branding/resolve/main/images/LeRobot%20Logos/Tag%20icon.png" width="48" height="48" alt="LeRobot">
+<img src="icons/ai-robotics.png" height="48" alt="PyTorch, ROS, Weights & Biases"> ![Hugging Face](https://api.iconify.design/devicon/huggingface.svg?height=48) <img src="https://huggingface.co/spaces/lerobot/LeRobot-branding/resolve/main/images/LeRobot%20Logos/Tag%20icon.png" width="48" height="48" alt="LeRobot">
 
 **Web**
 
